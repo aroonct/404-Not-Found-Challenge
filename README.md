@@ -27,10 +27,10 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](https://vercel.com)
-- [Html](#index.html)
-- [Styles](#style.css)
-- [Images](#devchallenges.png)
+  - [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
