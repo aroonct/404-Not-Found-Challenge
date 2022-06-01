@@ -1,18 +1,18 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 NOT FOUND}</h1>
+<h1 align="center">404 NOT FOUND</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for the challenge "404 NOT FOUND" from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-indol.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ever2402/404-Not-Found-Challenge">
       Solution
     </a>
     <span> | </span>
@@ -27,10 +27,10 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+  - [Built With](https://vercel.com)
+- [Html](#index.html)
+- [Styles](#style.css)
+- [Images](#devchallenges.png)
 
 <!-- OVERVIEW -->
 
