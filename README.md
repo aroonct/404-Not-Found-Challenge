@@ -36,42 +36,39 @@
 
 ## Overview
 #### Full screen
-![screenshot](overview/Captura%20de%20pantalla%20(110).png)
-#### Responsive
 ![screenshot](overview/Captura%20de%20pantalla%20(111).png)
+#### Responsive
+![screenshot](overview/Captura%20de%20pantalla%20(110).png)
 
 A little about the project
 
 - You can see the project demo at the following url [Demo](https://404-not-found-indol.vercel.app/)
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- It was super fun to do the challenge, and I was able to learn more about responsive design.
+- :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## Features
-## Hola 1
+## Challenges
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This app/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to create a 404 NOT FOUND website in a responsive way.
 
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Responsive layout with flexbox.](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [My website](https://kiro.vercel.app)
+- GitHub [@kiro](https://github.com/ever2402)
+- Twitter [twitter](https://twitter.com/bigan24?t=7ybeTeZZZYahG1juvyO-Rg&s=09)
