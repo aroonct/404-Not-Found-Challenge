@@ -35,12 +35,14 @@
 <!-- OVERVIEW -->
 
 ## Overview
-#### hola
+#### Full screen
 ![screenshot](overview/Captura%20de%20pantalla%20(110).png)
+#### Responsive
+![screenshot](overview/Captura%20de%20pantalla%20(111).png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+A little about the project
 
-- Where can I see your demo?
+- You can see the project demo at the following url [Demo](https://404-not-found-indol.vercel.app/)
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
